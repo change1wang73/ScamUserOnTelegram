@@ -18,7 +18,7 @@
 
 
 
-![image-20240710155520787](/Users/admin/Desktop/GitProjects/ScamUserOnTelegram/README.assets/image-20240710155520787.png)
+![image-20240710155520787](./README.assets/image-20240710155520787.png)
 
 ```
 受骗过程：
